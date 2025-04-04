@@ -32,4 +32,4 @@ Class Design: Creating and structuring classes to handle different responsibilit
 
 OOP Principles: Applying encapsulation, modularity, and clean code practices.
 
-Code Reusability: Building reusable components that make the code easier to maintain and extend
+Code Reusability: Building reusable components that make the code easier to maintain and extend.
