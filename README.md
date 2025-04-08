@@ -18,7 +18,7 @@ The Quiz Generator is a Python-based application designed to create quizzes from
 
 1. **Start the Quiz**: Run the `main.py` file to launch the quiz.
 2. **Answer Questions**: Each question will be displayed along with multiple-choice answers.
-3. **Submit Your Answer**: Input your choice (e.g., 'a', 'b', 'c') for each question.
+3. **Submit Your Answer**: Input your answer for each question.
 4. **View Score**: At the end of the quiz, your total score will be displayed.
 5. **Restart or Exit**: You can choose to take the quiz again or exit the program.
 
